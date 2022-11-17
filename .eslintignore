@@ -1,0 +1,10 @@
+package-lock.json
+yarn.lock
+node_modules
+docs
+test
+.husky
+.env.*
+.eslintrc.json
+.prettierrc.json
+# any other unwanted files or folders
